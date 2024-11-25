@@ -1,5 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidpfahler/react-ml-app/blob/master/train_dog_classifier_with_fastai_export_to_ONNX.ipynb)
-
 # react-ml-app
 
 This pet project of mine serves as an end-to-end example of how to create a privacy-first machine learning application that runs in the browser. It demonstratetes how to train a PyTorch model with fastai, export it to ONNX format and run it in the browser using onnx.js inside a react app.
